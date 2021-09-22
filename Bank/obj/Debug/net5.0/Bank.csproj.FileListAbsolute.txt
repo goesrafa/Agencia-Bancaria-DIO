@@ -1,0 +1,16 @@
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\bin\Debug\net5.0\Bank.exe
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\bin\Debug\net5.0\Bank.dll
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.dll
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.pdb
+G:\Bootcamp everis\Agencia Bancaria\Bank\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
